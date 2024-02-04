@@ -1,0 +1,6 @@
+.idea
+.venv
+paswords.py
+README.md
+.DS_Store
+__pycache__/
